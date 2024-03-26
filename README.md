@@ -15,7 +15,7 @@ Clone the application repository to your local machine by executing the followin
 
 ```
 git clone https://github.com/yourusername/string-converter.git
-cd string-transformer-app
+cd string-converter
 ```
 
 This application does not require additional Python packages outside of the standard library.
