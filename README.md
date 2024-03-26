@@ -14,7 +14,7 @@ Ensure Python 3.x is installed on your system. If not, please download and insta
 Clone the application repository to your local machine by executing the following command in your terminal:
 
 ```
-git clone https://github.com/yourusername/string-transformer-app.git
+git clone https://github.com/yourusername/string-converter.git
 cd string-transformer-app
 ```
 
